@@ -17,4 +17,4 @@ sentence-transformers | Apache Spark | PostgreSQL | AWS
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/erprakashbhandari/)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:pkas4u@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:bhprakash21@gmail.com)
